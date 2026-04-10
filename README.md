@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adrian Baca</h1>
-<h3 align="center">A Computational Engineering student and IT enthusiast from Poland</h3>
+<h3 align="center">A Computer Science and Inteligent Systems student and IT enthusiast from Poland</h3>
 <p align="center">
 </p>
 
